@@ -34,7 +34,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/becaletto/becaletto/output/snake.svg" alt="Snake animation" />
-
-###
