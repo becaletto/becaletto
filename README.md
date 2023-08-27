@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="100" src="https://camo.githubusercontent.com/691376e0d26510fd58fc327b96f11209737bafefd72f912513e779372fab7ce5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d413941394139266865696768743d3132302673656374696f6e3d686561646572"  />
+</div>
+
+###
+
 <br clear="both">
 
 <h4 align="center">Olá, me chamo Kauã Becaletto e estou no 4° semestre de Desenvolvimento de Sistemas.</h4>
@@ -37,6 +43,12 @@
 
 <div align="center">
   <img height="100" src="https://www.unicamp.br/unicamp/sites/default/files/styles/large/public/Logo_Unicamp__0.jpg?itok=sO9EjTTS"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="100" src="https://camo.githubusercontent.com/ee785668fc24d02bf76c55d19bed185aa39f8ba14a291ddecad423b64fd0845a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d413941394139266865696768743d3132302673656374696f6e3d666f6f746572"  />
 </div>
 
 ###
