@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">Olá, me chamo Kauã Becaletto e estou no 9° semestre de Desenvolvimento de Sistemas.</h3>
+<h3 align="center">Codo fofo <3</h3>
 
 ###
 
@@ -26,9 +26,5 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="100" src="https://www.unicamp.br/unicamp/sites/default/files/styles/large/public/Logo_Unicamp__0.jpg?itok=sO9EjTTS"  />
-</div>
 
 ###
